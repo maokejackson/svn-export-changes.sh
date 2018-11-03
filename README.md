@@ -5,8 +5,7 @@ Bash script for exporting svn changed files between two locations (Normally for 
 
 It can sometimes be a pain to export just modified files from SVN on the MAC/*nix machines. 
 
-TortoiseSVN on windows has [a simple method for this]
-(http://verysimple.com/2007/09/06/using-tortoisesvn-to-export-only-newmodified-files/)
+TortoiseSVN on windows has [a simple method for this](http://verysimple.com/2007/09/06/using-tortoisesvn-to-export-only-newmodified-files/)
 
 This script is for everyone else.
 
